@@ -1,5 +1,5 @@
 # MEPO_PiP
-Source Data and Source Code for Multi-Domain Entropy-Weighted Policy Optimization (MEPO) and the Picture-in-Picture (PiP) Benchmark
+Source Code for Multi-Domain Entropy-Weighted Policy Optimization (MEPO) and the Picture-in-Picture (PiP) Benchmark
 
 ## PiP Benchmark
 The Picture-in-Picture (PiP) benchmark is a new benchmark for evaluating the multi-instances capabilities of MLLMs. 
